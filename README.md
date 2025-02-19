@@ -137,7 +137,7 @@ The frontend of WeebNet is available at:
 #### **Backend**
 ```bash
 git rev-parse HEAD
-# Output example: a1b2c3d4e5f6g7h8i9j0k
+# Output example: 00a56d6bb494f1c96e07d435bfe4ed40070c20ae
 ```
 #### **Frontend**
 ```bash
@@ -157,7 +157,7 @@ git -C ../weebnet-frontend rev-parse HEAD
 ---
 ## **5️⃣ Demo Video**
 A demonstration video showcasing the main functionalities of the application is available at the following link:
-👉 **[Demo Video](YOUR_DRIVE_LINK_HERE)**
+👉 **[Demo Video](https://drive.google.com/drive/folders/12M4jVdfEC1Pf4KBlHaMEeiDNnf_76wHV?usp=drive_link)**
 ---
 
 ## **👨‍💻 Author**
