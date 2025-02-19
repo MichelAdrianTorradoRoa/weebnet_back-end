@@ -122,6 +122,6 @@ INSERT INTO type_interactions (type) VALUES
 ('mention');
 
 ALTER TABLE users
-ALTER COLUMN password TYPE varchar(60);
+ALTER COLUMN password SET DATA TYPE varchar(60);
 
 select * from users;
